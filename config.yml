@@ -1,1 +1,20 @@
 greeting: "안녕하세요..!!"
+
+
+---
+
+spring:
+ profiles: stage
+greeting: " welcome to stage server !!"
+ 
+---
+
+spring:
+ profiles: dev
+greeting: "welcome to dev server !!"
+
+---
+
+spring:
+ profiles: local
+greeting: "welcome to local server !!"
