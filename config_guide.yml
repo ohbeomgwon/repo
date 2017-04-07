@@ -24,4 +24,4 @@ spring:
  profiles: local
  
 guide: 
-  greeting: "welcome to local server !!"
+  greeting: "어여와 to local server !!"
